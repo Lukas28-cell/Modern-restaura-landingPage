@@ -6,6 +6,8 @@ import About from './component/About'
 import Mission from './component/Mission'
 import Expertise from './component/Expertise'
 import Review from './component/Review'
+import Contact from './component/Contact'
+import Footer from './component/Footer'
 
 const App = () => {
   return (
@@ -17,6 +19,9 @@ const App = () => {
       <Mission/>
       <Expertise/>
       <Review/>
+      <Contact/>
+      <Footer/>
+      
     </div>
   )
 }
