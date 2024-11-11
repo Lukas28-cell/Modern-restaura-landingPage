@@ -119,7 +119,7 @@ export const REVIEW = {
 };
 
 export const CONTACT = [
-  { key: "address", value: "Address: 123 Main Street,   Benin, Nigrial" },
+  { key: "address", value: "Address: 128 Main Street, Benin, Nigerial" },
   { key: "phone", value: "Phone: 08120542120" },
   { key: "email", value: "Email: lukakoinaede.com" },
 ];
