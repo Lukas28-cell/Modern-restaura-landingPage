@@ -53,7 +53,7 @@ const Review = () => {
         </motion.div>
     </motion.div>
     < motion.div
-    inherit="hidden"
+    initial="hidden"
     whileInView="show"
     variants={itemVaris}
     viewport={{once:true}}
